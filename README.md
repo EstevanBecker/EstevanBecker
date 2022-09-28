@@ -17,6 +17,10 @@
 
   ##
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EstevanBecker&theme=dark)](https://git.io/streak-stats)
+
+ ##
+
 <div> 
  <a href="https://www.instagram.com/thxbecker/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/datsisyphus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
